@@ -1,3 +1,6 @@
 
 .DS_Store
 *.swc
+
+/.vscode
+/asconfig.json
